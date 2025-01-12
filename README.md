@@ -7,7 +7,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3 align="center">A beginner Web Developer who focuses on writing clean and efficient code.</h3>
+<h3 align="center">A Web Developer who focuses on writing clean and efficient code.</h3>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
