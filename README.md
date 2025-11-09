@@ -16,10 +16,10 @@
 
 # 💫 About Me:
 
-🔭 Pre-final year ( CSE ) , IIIT Jabalpur.<br>
-<br>🌱 I’m currently learning MERN Stack.<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/ashish789bhoi?tab=repositories)<br>
-<br>📫 How to reach me ashish789bhoi@gmail.com<br>
+Final year ( CSE ) , IIIT Jabalpur.<br>
+<br>I’m currently learning MERN Stack.<br>
+<br>All of my projects are available at My [Github Repositories](https://github.com/ashish789bhoi?tab=repositories)<br>
+<br>How to reach me ashish789bhoi@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
